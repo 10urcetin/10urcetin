@@ -13,7 +13,7 @@ Hello, I am Onur, a third year Computer Engineering student at Akdeniz Universit
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=10urcetin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=10urcetin&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=10urcetin&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @10urcetin
 - 👀 I’m interested in ...
